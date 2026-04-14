@@ -63,3 +63,6 @@ git push :- to push the whole code to the online repository [git]
 
 git pull :- to get the code from online repository [git]
 
+git clone [paste the HTTPS link "https://github.com/devloperRakshak/learning_git.git"] :- it download 
+adject file or folder from git hub
+
